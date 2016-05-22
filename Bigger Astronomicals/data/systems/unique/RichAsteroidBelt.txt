@@ -1,0 +1,15 @@
+System: RichAsteroidBelt
+	Frequency: 0.01
+	Unique: Galaxy
+
+	MakeStar(Temperature = 4520, Radius = 130)
+	AddQuality(-300)
+
+	MakePlanet()
+	MakeAsteroidBelt(8)
+	
+	Repeat(1)
+		MakePlanet()
+	
+	Repeat(6)
+		MakeAsteroid()

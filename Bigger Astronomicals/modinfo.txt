@@ -1,0 +1,11 @@
+	Name: Bigger Astronomicals
+	Description: <<
+		Makes planets, stars and black holes BIGGER!
+
+		Suns are about twice as large, planets are about three times as large as they did seem a little small, and the galactic black hole is BIG now.  You'll probably want to increase both the system size and spacing a bit larger than the default, as otherwise everything looks a little cramped.  On the other hand, if you're one of those people who play with big systems and vast spacing regularly, this mod should help make everything look a little more to scale.  There's also more of a random range of planet sizes, since they seemed a bit similar.
+
+		Planet surfaces should be mostly the same, perhaps a little bigger, and hitpoints of stellar objects is increased a bit as a side effect.  Since graviton condensers that can pop planets double-quick are fairly easy to make, I'm not going to struggle to fix this, but you should be aware.
+
+		Thanks to Darknote for inspiring this mod and prompting an investigation into the map generation.
+	>>
+	Compatibility: 200
